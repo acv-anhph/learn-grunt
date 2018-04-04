@@ -1,0 +1,23 @@
+{
+  "name": "grunt",
+  "description": "simple project",
+  "main": "",
+  "authors": [
+    "acv-anhph <anhph@atmarkcafe.org>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/acv-anhph/learn-grunt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bemify": "^0.1.2",
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0",
+    "font-awesome": "fontAwesome#4.7.0"
+  }
+}
